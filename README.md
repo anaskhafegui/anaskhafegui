@@ -18,7 +18,7 @@ I love to code, and I am looking to open source projects and learn from them & o
 
 - 🔭 **Also, I’m a Lifetime learner **:
 
-- 💬 **Ask me about**: OOP, Backend, PHP, JavaScript, Ruby on Rails, Golang, Rust, Database, Design Patterns, Testing.
+- 💬 **Ask me about**: OOP, Backend, nodejs, Database, Design Patterns, Testing.
 
 - 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
 
